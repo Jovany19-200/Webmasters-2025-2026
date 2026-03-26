@@ -36,10 +36,7 @@ p4 {
   gap: 15px; 
 }
 
-.row img {
-  width: 150px; 
-  height: auto;
-}
+
 
 
  
@@ -172,15 +169,15 @@ ul.navbar li a:hover {
 
 .Header {
  width: 100%;
- height: 200px;
+ height: 250px;
  overflow: hidden;
  display: block;
- margin-top: 0;
+
 }
 
 .Header img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  margin-top: 0;
+
 }
